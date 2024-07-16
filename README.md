@@ -1,2 +1,2 @@
 # Furni_Detect
-Using computer vision technology, client can accurately identify and classify furniture items.
+Using Furni_detect AI solution, client can accurately identify and classify furniture items.
